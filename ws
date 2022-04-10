@@ -88,4 +88,3 @@
     _55.MouseButton1Click:Connect(function()
     game.Players.LocalPlayer.Character.Humanoid.WalkSpeed = 55
     end)
-end)
